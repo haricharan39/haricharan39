@@ -71,11 +71,21 @@ An ongoing advanced project focusing on learning robot kinematics, simulation, a
 - 👯 **Open to:** Collaborations on robotics projects, embedded systems, and automation
 - ⚡ **Fun fact:** I build robots in simulation today and aim to build them in the real world tomorrow! 🌍
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-[![Hari's GitHub stats](https://github-readme-stats-sunguoqi.vercel.app/api?username=haricharan39&show_icons=true&theme=dark&hide_border=true)](https://github.com/haricharan39)
+<a href="https://github.com/haricharan39">
+  <img alt="Hari's GitHub Stats" src="https://img.shields.io/badge/GitHub_Stats-View_Profile-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![Top Languages](https://github-readme-stats-sunguoqi.vercel.app/api/top-langs/?username=haricharan39&layout=compact&theme=dark&hide_border=true)](https://github.com/haricharan39?tab=repositories)
+**To view detailed stats:**
+- Visit [GitHub Profile Analytics](https://github.com/haricharan39?tab=repositories) to explore my repositories
+- Check my contribution graph on the [main profile page](https://github.com/haricharan39)
+
+**Primary Languages & Technologies:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## 🛠️ My Interests
 
