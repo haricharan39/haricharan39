@@ -73,9 +73,12 @@ An ongoing advanced project focusing on learning robot kinematics, simulation, a
 
 ## 📊 GitHub Stats
 
-[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=haricharan39&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/haricharan39)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haricharan39&layout=compact&theme=radical&hide=html&cache_seconds=1800)](https://github.com/haricharan39?tab=repositories)
+<a href="https://github.com/haricharan39">
+  <img height="180em" src="https://github-readme-stats-git-master-haricharans-projects.vercel.app/api?username=haricharan39&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/haricharan39?tab=repositories">
+  <img height="180em" src="https://github-readme-stats-git-master-haricharans-projects.vercel.app/api/top-langs/?username=haricharan39&layout=compact&theme=radical" alt="Top Languages" />
+</a>
 
 ## 🛠️ My Interests
 
