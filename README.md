@@ -1,4 +1,4 @@
-# Hi there, I'm Hari Charan 👋
+# Hi there, Myself Hari Charan..
 
 Welcome to my GitHub profile! I'm a passionate robotics enthusiast and student at **Indian Institute of Technology Tirupati**, committed to building innovative solutions in robotics, embedded systems, and automation.
 
