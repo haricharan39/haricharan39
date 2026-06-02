@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate robotics enthusiast and student a
 
 ## 🚀 About Me
 
-I'm a robotics and embedded systems engineer with a passion for autonomous systems and industrial automation. I love designing intelligent machines, working with hardware-software integration, and solving complex engineering problems. My journey spans from building real-world embedded systems to simulating advanced robotic systems. I'm bridging the gap between simulation and reality – **I build robots in simulation today and aim to build them in the real world tomorrow.**
+I'm a robotics and embedded systems engineer with a passion for autonomous systems and industrial automation. I love designing intelligent machines, working with hardware-software integration, and solving real-world problems through innovative technology.
 
 ## 💻 Tech Stack
 
@@ -73,9 +73,9 @@ An ongoing advanced project focusing on learning robot kinematics, simulation, a
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=haricharan39&show_icons=true&theme=radical)
+[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=haricharan39&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/haricharan39)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haricharan39&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haricharan39&layout=compact&theme=radical&hide=html&cache_seconds=1800)](https://github.com/haricharan39?tab=repositories)
 
 ## 🛠️ My Interests
 
